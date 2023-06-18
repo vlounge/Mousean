@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/vlad/source/repos/Mousean/src/Mousean/Content/Music/MaxKoMusic-TruePatriot.ogg</SourceFile>
+  <SourceTime>2023-05-25T00:01:16+05:00</SourceTime>
+  <DestFile>C:/Users/vlad/source/repos/Mousean/src/Mousean/Content/bin/DesktopGL/Music/MaxKoMusic-TruePatriot.xnb</DestFile>
+  <DestTime>2023-05-29T19:17:24.35643+05:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T16:44:56+05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/vlad/source/repos/Mousean/src/Mousean/Content/bin/DesktopGL/Music/MaxKoMusic-TruePatriot.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
